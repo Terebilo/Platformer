@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Deadly
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Deadly
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background1
+    uniqueID: 4068591749
+    locked: 0
+  - name: Background2
+    uniqueID: 3383161475
+    locked: 0
+  - name: Background3
+    uniqueID: 293173733
+    locked: 0
+  - name: Background
+    uniqueID: 3068598393
+    locked: 0
+  - name: Foreground
+    uniqueID: 2449618449
+    locked: 0
